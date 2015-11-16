@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All-Day Breakfast]]></title>
+        <description><![CDATA[All-Day Breakfast]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 19:23:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ADB-151016 Uncertain]]></title>
+            <description><![CDATA[<article><h1>ADB-151016 Uncertain</h1><p>151016 All-Day Breakfast — Uncertain</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b5f0bcf-e454-4a1f-a536-a640de0cc6e9.png"></article>]]></description>
+            <link>undefinedadb-151016-uncertain/index.html</link>
+            <guid isPermaLink="false">879dbd52-789f-4257-99ee-e562980249b5</guid>
+            <pubDate>Mon, 16 Nov 2015 19:23:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
