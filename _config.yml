@@ -1,0 +1,23 @@
+name: All-Day Breakfast
+favicon: null
+layout_spectrum: 0.7027279022149742
+typography_spectrum: 0.36195918289013207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09010465978644788
+  lightness: 0.5799074438400567
+  saturation: 0.59831721521914
+  rhythmicContrast: 0.7176105191465467
+purpose: []
